@@ -1,7 +1,6 @@
-package Lecture1;
+package Lecture1.Basic;
 
 import java.util.Scanner;
-
 public class Swap {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

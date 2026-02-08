@@ -1,7 +1,6 @@
-package Lecture1;
+package Lecture1.Basic;
 
 import java.util.Scanner;
-
 public class TriangleArea {
     public static void main(String[] args) {
         // Area of triangle = ½*B*H

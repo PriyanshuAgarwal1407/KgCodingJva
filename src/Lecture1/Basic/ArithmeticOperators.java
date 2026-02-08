@@ -1,4 +1,4 @@
-package Lecture1;
+package Lecture1.Basic;
 
 import java.util.Scanner;
 public class ArithmeticOperators {

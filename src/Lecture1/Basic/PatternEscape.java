@@ -1,4 +1,4 @@
-package Lecture1;
+package Lecture1.Basic;
 
 public class PatternEscape {
     public static void main(String[] args) {
