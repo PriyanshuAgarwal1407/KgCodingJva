@@ -1,4 +1,13 @@
 package Lecture2.Arrays;
 
 public class PassingArrayToMethods {
+    public static void main(String[] args) {
+        int[] x = {6,5,1,7};
+        System.out.println(x[0]);
+        change(x);
+        System.out.println(x[0]);
+    }
+    public static void change(int[] y) {
+        y[0] = 20;
+    }
 }
