@@ -1,7 +1,6 @@
-package arrays;
+package Lecture2.Arrays;
 
 import java.util.Arrays;
-
 public class ShallowAndDeepCopy {
     public static void main(String[] args) {
         int[] arr = {10,20,30,40};
